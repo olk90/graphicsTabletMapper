@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GT Mapper
+Icon=/path/to/custom/icon.png
+Exec=/path/to/script
+Comment=Happy painting!
+Terminal=true
